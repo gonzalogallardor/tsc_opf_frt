@@ -1,0 +1,4 @@
+slack_bus,1
+v_ini(pu),0.95
+v_min(pu),0.95
+v_max(pu),1.05

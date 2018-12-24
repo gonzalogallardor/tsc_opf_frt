@@ -1,0 +1,7 @@
+total_time[s],4
+delta_t[s],0.02
+clearing_time[s],0.3
+faulted_bus (number),10
+isolated_branch_bus1,7
+isolated_branch_bus1,10
+Sm/Pmax,1.1

@@ -1,0 +1,2 @@
+bus_number,P_l,P_lo,P_up,Q_l,Q_lo,Q_up,a_1,hvdc_pf_interval_1,hvdc_pf_interval_2,hvdc_pf_interval_3
+6,300,0,310,-150,-155,0,55,0.048913043,0.266304348,0.684782609
